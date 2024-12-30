@@ -5,7 +5,7 @@ import trumpcoin from "../../assets/icons/trumpcoin.png";
 
 const Work = () => {
   return (
-    <div className="min-h-screen w-full relative flex md:top-0 ">
+    <div id="buy" className="min-h-screen w-full relative flex md:top-0 ">
       {/* Background image with transparent blue overlay */}
       <div
         className="absolute inset-0 bg-cover bg-center bg-blue-500 opacity-50"

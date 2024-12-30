@@ -2,7 +2,7 @@ import React from "react";
 
 const Roadmap = () => {
   return (
-    <div className="bg-[#8A5B45] flex flex-col justify-center items-center pb-20">
+    <div id="roadmap" className="bg-[#8A5B45] flex flex-col justify-center items-center pb-20">
       <h1
         style={{ fontFamily: "Irish Grover" }}
         className="my-9 text-6xl text-white"

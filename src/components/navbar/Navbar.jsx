@@ -54,7 +54,7 @@ const Navbar = () => {
             </li>
             <li>
               <a
-                href="#"
+                href="#about"
                 className="block py-2 px-3 text-white"
               >
                 About
@@ -62,15 +62,15 @@ const Navbar = () => {
             </li>
             <li>
               <a
-                href="#"
+                href="#roadmap"
                 className="block py-2 px-3 text-white"
               >
-                Tokenomics
+                Roadmap
               </a>
             </li>
             <li>
               <a
-                href="#"
+                href="#buy"
                 className="block py-2 px-3 text-white"
               >
                 How to buy
@@ -78,7 +78,7 @@ const Navbar = () => {
             </li>
             <li>
               <a
-                href="#"
+                href="#faq"
                 className="block py-2 px-3 text-white"
               >
                 Faq

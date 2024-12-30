@@ -17,7 +17,7 @@ const Home = () => {
       {/* Content section */}
       <div className="relative z-10 grid grid-cols-1 md:grid-cols-8 w-full gap-x-3  ">
         <div className="flex flex-col justify-center items-center px-10 md:px-20 md:col-span-3 h-full ">
-          <h1 className="font-large text-9xl text-[#8A5B45]" style={{fontFamily: "Irish Grover"}}>1202025</h1>
+          <h1 className="font-large text-6xl md:text-9xl text-[#8A5B45]" style={{fontFamily: "Irish Grover"}}>1202025</h1>
           <p className="font-large text-2xl text-center">
             Design a meme coin character inspired by TRUMP + BLBLEFACE
             incorporating cartoonish elements such as oversized facial features.

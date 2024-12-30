@@ -50,7 +50,7 @@ const MenuItem = ({ icon, text, onClick, isActive, description }) => (
       </div>
     </div>
     {isActive && (
-      <div className="px-4 py-2 bg-gray-50/90 text-sm text-gray-600 rounded-b-lg ml-8 border-l-2 border-gray-200">
+      <div className="px-4 py-2 bg-gray-50/90 text-sm text-gray-600 rounded-b-lg  border-l-2 border-gray-200">
         {description}
       </div>
     )}
@@ -66,7 +66,7 @@ const Faq = () => {
   
 
   return (
-    <div className=" w-full relative flex flex-col ">
+    <div id="faq" className=" w-full relative flex flex-col ">
       <h1
         style={{ fontFamily: "Irish Grover" }}
         className=" text-6xl text-black z-10 relative text-center mt-10 "
